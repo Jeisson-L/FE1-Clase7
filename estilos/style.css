@@ -28,6 +28,7 @@ h1,h2{
     background: #c4c4c4;
     color: #005677;
     letter-spacing: 3pt;
+    text-transform: uppercase;
 }
 
 #logo{
